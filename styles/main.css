@@ -775,6 +775,7 @@
     border-radius: 15px;
     grid-area: a;
     display: flex;
+    margin-left: 2rem;
     justify-content: center;
     gap: 1rem;
     width: 234px;
